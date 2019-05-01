@@ -1,5 +1,4 @@
-<video width="320" height="240" autoplay>
-  <source src="https://vimeo.com/294257803" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
+<video width="320" height="240" controls>
+  <source src="http://player.vimeo.com/video/3873878">
 </video>
+<video src="http://player.vimeo.com/video/3873878" width="320" height="240" controls></video>
